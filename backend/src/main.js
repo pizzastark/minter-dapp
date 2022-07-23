@@ -24,7 +24,7 @@ const {
 } = require(`${basePath}/src/config.js`);
 const canvas = createCanvas(format.width, format.height);
 const ctx = canvas.getContext("2d");
-ctx.imageSmoothingEnabled = format.smoothing;
+ctx.imagemoothingEnabled = format.smoothing;
 var metadataList = [];
 var attributesList = [];
 var dnaList = new Set();
