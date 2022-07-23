@@ -1,7 +1,7 @@
 const contractAddress = "0x549d05c2566668276850052078f6Bdf47Aba1Fdc"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to testPass NFT Project!";
+const welcome_h1 = "Welcome to tessst NFT Project!";
 const welcome_h2 = "Connect MetaMask to Get Started";
 const welcome_p = 'testPass NFT Project is a test project. Go to <a href="https://mylink.com"  target="_blank" rel="noopener noreferrer">our website</a>';
 const h1_presale_coming_soon = "Whitelist mint starting soon!";
